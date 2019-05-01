@@ -2,7 +2,6 @@ channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
 dependencies:
   - python==3.6
-  - numpy
   - pip:
     - tensorflow==2.0.0-alpha0
     - ipykernel
