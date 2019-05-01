@@ -1,1 +1,3 @@
+rm jyluo1994/python-binder/神经网络-tf2.ipynb
+jupyter lab clean
 python -m ipykernel install --name=TensorFlow2
