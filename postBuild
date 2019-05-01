@@ -1,2 +1,3 @@
+conda build purge-all
 jupyter lab clean
 python -m ipykernel install --user --name=TensorFlow
